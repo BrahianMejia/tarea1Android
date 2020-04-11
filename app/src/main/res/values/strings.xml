@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="lbltitulo">CALCULAR PROMEDIO</string>
+    <string name="lblnota1">Nota 1: </string>
+    <string name="lblnota2">Nota 2: </string>
+    <string name="lblnota3">Nota 3: </string>
+    <string name="lblnota4">Nota 4: </string>
+    <string name="btnenviar">ENVIAR</string>
+    <string name="lblpromedio">Promedio: </string>
+</resources>
